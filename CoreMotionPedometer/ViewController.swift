@@ -10,6 +10,7 @@ import UIKit
 import CoreMotion
 
 class ViewController: UIViewController {
+    //this is a comment
     var pedometer = CMPedometer()
     
     let goGreen = UIColor(red: 0, green: 1.0, blue: 0.15, alpha: 1.0)
